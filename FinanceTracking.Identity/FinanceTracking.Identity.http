@@ -1,0 +1,6 @@
+@FinanceTracking.Identity_HostAddress = http://localhost:5141
+
+GET {{FinanceTracking.Identity_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
